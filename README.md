@@ -6,7 +6,7 @@ no dia a dia.
 
 Conheça o sistema: **https://meusistemaempresarial.vercel.app**
 
-<!-- versao -->**Versao atual: 1.3** (12/11/2026)<!-- /versao -->
+<!-- versao -->**Versao atual: 1.4** (13/11/2026)<!-- /versao -->
 
 ## Baixar
 
@@ -27,6 +27,13 @@ versão nova e se atualiza com um clique.
 
 ## Novidades
 <!-- novidades -->
+
+### 1.4 (13/11/2026)
+
+- Botão VENDER no alto do menu lateral: abre uma venda nova na hora (ou aperte F2 em qualquer tela)
+- Manual abre dentro do próprio sistema, com botão para voltar
+- Atualizações mais rápidas: quando a novidade é só nas telas, o sistema baixa poucos KB e se atualiza sem fechar
+
 
 ### 1.3 (12/11/2026)
 
