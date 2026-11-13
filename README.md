@@ -6,7 +6,7 @@ no dia a dia.
 
 Conheça o sistema: **https://meusistemaempresarial.vercel.app**
 
-<!-- versao -->Nenhuma versão publicada ainda.<!-- /versao -->
+<!-- versao -->**Versao atual: 1.3** (12/11/2026)<!-- /versao -->
 
 ## Baixar
 
@@ -27,3 +27,13 @@ versão nova e se atualiza com um clique.
 
 ## Novidades
 <!-- novidades -->
+
+### 1.3 (12/11/2026)
+
+- Caixa pelo teclado: F2 nova venda, 3* para quantidade, setas, + e - no carrinho, F7 forma de pagamento, F10 finaliza (o mouse continua funcionando)
+- Teste grátis de 24 horas e compra pelo PIX direto no sistema
+- Renovação da licença pelo PIX, com liberação automática
+- Logomarca da sua empresa no sistema e no cupom
+- Atualização automática: o sistema avisa quando há versão nova
+- Tela de ativação mais simples, que cabe inteira na janela
+
