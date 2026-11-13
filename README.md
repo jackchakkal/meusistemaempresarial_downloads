@@ -6,7 +6,7 @@ no dia a dia.
 
 Conheça o sistema: **https://meusistemaempresarial.vercel.app**
 
-<!-- versao -->**Versao atual: 1.4** (13/11/2026)<!-- /versao -->
+<!-- versao -->**Versao atual: 1.5** (13/11/2026)<!-- /versao -->
 
 ## Baixar
 
@@ -27,6 +27,15 @@ versão nova e se atualiza com um clique.
 
 ## Novidades
 <!-- novidades -->
+
+### 1.5 (13/11/2026)
+
+- Atualização automática: o sistema procura versão nova ao abrir e de hora em hora, e já deixa baixada
+- Quando sai versão nova, aparece um aviso para todos os usuários até atualizar (dá para adiar 5 minutos para terminar uma venda)
+- Ao fechar o programa, a versão nova é instalada automaticamente
+- A versão do sistema aparece na tela de login e na barra de título da janela
+- Código do produto automático: prefixo da categoria + sequência (BEB-0001, BEB-0002...)
+
 
 ### 1.4 (13/11/2026)
 
