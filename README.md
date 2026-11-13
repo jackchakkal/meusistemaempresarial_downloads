@@ -6,7 +6,7 @@ no dia a dia.
 
 Conheça o sistema: **https://meusistemaempresarial.vercel.app**
 
-<!-- versao -->**Versao atual: 1.7** (13/11/2026)<!-- /versao -->
+<!-- versao -->**Versao atual: 1.7.1** (13/11/2026)<!-- /versao -->
 
 ## Baixar
 
@@ -27,6 +27,11 @@ versão nova e se atualiza com um clique.
 
 ## Novidades
 <!-- novidades -->
+
+### 1.7.1 (13/11/2026)
+
+- Manual: novo capítulo 13, "Cupom e nota com validade fiscal", ilustrado, com tudo o que a empresa precisa providenciar (Inscrição Estadual, credenciamento, CSC, certificado A1, tributação dos produtos) e uma mensagem pronta para o contador
+
 
 ### 1.7 (13/11/2026)
 
