@@ -6,7 +6,7 @@ no dia a dia.
 
 Conheça o sistema: **https://meusistemaempresarial.vercel.app**
 
-<!-- versao -->**Versao atual: 1.8.1** (13/11/2026)<!-- /versao -->
+<!-- versao -->**Versao atual: 1.9** (13/11/2026)<!-- /versao -->
 
 ## Baixar
 
@@ -38,6 +38,12 @@ tudo e começar do zero, use **Zerar sistema.bat**.
 
 ## Novidades
 <!-- novidades -->
+
+### 1.9 (13/11/2026)
+
+- Fixar na barra de tarefas agora fixa o próprio Sistema Empresarial (com o ícone dele), e não o navegador Edge. Quem já fixou o ícone estranho: desafixe e fixe de novo
+- Endereço do site do sistema com ícone, no topo (ao lado do usuário) e na tela Sobre
+
 
 ### 1.8.1 (13/11/2026)
 
