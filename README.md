@@ -6,7 +6,7 @@ no dia a dia.
 
 Conheça o sistema: **https://meusistemaempresarial.vercel.app**
 
-<!-- versao -->**Versao atual: 1.6** (13/11/2026)<!-- /versao -->
+<!-- versao -->**Versao atual: 1.7** (13/11/2026)<!-- /versao -->
 
 ## Baixar
 
@@ -27,6 +27,13 @@ versão nova e se atualiza com um clique.
 
 ## Novidades
 <!-- novidades -->
+
+### 1.7 (13/11/2026)
+
+- Ficou sem internet e o sistema bloqueou? O suporte envia uma chave de liberação temporária (1, 3 ou 7 dias) que funciona sem internet
+- A tela de bloqueio mostra a série e o nº para pedir a chave ao suporte, e o botão do WhatsApp já envia esses números
+- Manual: explicação de quando o sistema precisa de internet
+
 
 ### 1.6 (13/11/2026)
 
