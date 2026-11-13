@@ -6,7 +6,7 @@ no dia a dia.
 
 Conheça o sistema: **https://meusistemaempresarial.vercel.app**
 
-<!-- versao -->**Versao atual: 1.5** (13/11/2026)<!-- /versao -->
+<!-- versao -->**Versao atual: 1.6** (13/11/2026)<!-- /versao -->
 
 ## Baixar
 
@@ -27,6 +27,13 @@ versão nova e se atualiza com um clique.
 
 ## Novidades
 <!-- novidades -->
+
+### 1.6 (13/11/2026)
+
+- Mudança no plano ou no vencimento da licença aparece assim que o sistema é aberto
+- A licença é conferida pela internet a cada hora de uso; sem internet por 3 dias, o sistema bloqueia
+- A atualização reinicia o sistema sem deixar janela preta aberta
+
 
 ### 1.5 (13/11/2026)
 
