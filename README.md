@@ -25,6 +25,17 @@ instalador da impressora vem dentro do pacote, na pasta *Driver da Impressora*.
 Quem já usa o sistema não precisa baixar de novo: ele avisa sozinho quando há
 versão nova e se atualiza com um clique.
 
+## Dados de demonstração
+
+Para mostrar o sistema funcionando, há um banco de dados **fictício** de um
+mercadinho com 30 dias de uso (produtos, vendas, caixa, estoque e cupons):
+
+**[Baixar os dados de demonstração](https://github.com/jackchakkal/meusistemaempresarial_downloads/releases/download/demonstracao/DemonstracaoSistemaEmpresarial.zip)**
+
+Com o sistema instalado e fechado, extraia o ZIP e dê dois cliques em
+**Instalar demonstracao.bat** (login `admin`, senha `demo1234`). Para apagar
+tudo e começar do zero, use **Zerar sistema.bat**.
+
 ## Novidades
 <!-- novidades -->
 
