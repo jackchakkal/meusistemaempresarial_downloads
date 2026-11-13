@@ -6,7 +6,7 @@ no dia a dia.
 
 Conheça o sistema: **https://meusistemaempresarial.vercel.app**
 
-<!-- versao -->**Versao atual: 1.7.1** (13/11/2026)<!-- /versao -->
+<!-- versao -->**Versao atual: 1.8** (13/11/2026)<!-- /versao -->
 
 ## Baixar
 
@@ -27,6 +27,15 @@ versão nova e se atualiza com um clique.
 
 ## Novidades
 <!-- novidades -->
+
+### 1.8 (13/11/2026)
+
+- Cupom fiscal NFC-e autorizado pela SEFAZ para empresas da Bahia: certificado digital A1, CSC, homologação e produção em Config. Fiscal
+- Sem internet na hora da venda o cupom sai em contingência e é enviado sozinho quando a conexão volta
+- NFC-e Cupons: situação de cada cupom (autorizada, recusada, contingência), reenvio à SEFAZ e cancelamento com motivo
+- Mercadorias: novos dados fiscais (CSOSN/CST, CEST, origem e alíquota de ICMS)
+- O manual e os arquivos da pasta mostram a versão do sistema
+
 
 ### 1.7.1 (13/11/2026)
 
