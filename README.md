@@ -6,7 +6,7 @@ no dia a dia.
 
 Conheça o sistema: **https://meusistemaempresarial.vercel.app**
 
-<!-- versao -->**Versao atual: 1.9** (13/11/2026)<!-- /versao -->
+<!-- versao -->**Versao atual: 1.10** (15/11/2026)<!-- /versao -->
 
 ## Baixar
 
@@ -38,6 +38,16 @@ tudo e começar do zero, use **Zerar sistema.bat**.
 
 ## Novidades
 <!-- novidades -->
+
+### 1.10 (15/11/2026)
+
+- Novo Modo Vendas: aperte F2 em qualquer tela e a tela inteira vira o caixa (sem menu), com a lista dos itens, o último produto com foto e o total bem grande
+- Pagamento dividido: uma venda pode ser paga com várias formas (ex.: parte no PIX e o resto em dinheiro, com troco). Sai tudo no cupom e na NFC-e
+- Produto vendido por quilo (unidade KG) pede o peso da balança ao entrar na venda
+- Consulta de preço (F5), cancelar venda (F6), CPF na nota com conferência (F9) e desconto (F4) direto no caixa
+- O vendedor já entra no Modo Vendas ao fazer login
+- Correção: venda com quantidade quebrada (ex.: 0,350 kg) podia gravar 1 centavo a menos do que a tela mostrava
+
 
 ### 1.9 (13/11/2026)
 
