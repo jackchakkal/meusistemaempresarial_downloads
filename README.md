@@ -6,7 +6,7 @@ no dia a dia.
 
 Conheça o sistema: **https://meusistemaempresarial.vercel.app**
 
-<!-- versao -->**Versao atual: 1.10** (15/11/2026)<!-- /versao -->
+<!-- versao -->**Versao atual: 1.10.1** (16/11/2026)<!-- /versao -->
 
 ## Baixar
 
@@ -38,6 +38,11 @@ tudo e começar do zero, use **Zerar sistema.bat**.
 
 ## Novidades
 <!-- novidades -->
+
+### 1.10.1 (16/11/2026)
+
+- Modo Vendas: o "Total a pagar" agora sempre cabe na caixa, mesmo com valores altos (a fonte diminui sozinha)
+
 
 ### 1.10 (15/11/2026)
 
